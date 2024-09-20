@@ -210,6 +210,7 @@ img{
     }
     .product-card{
         padding-block: 3rem;
+        border-width: 6px;
     }
     .card-name,
     .card-price{
